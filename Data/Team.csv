@@ -1,0 +1,21 @@
+team_id,team_name,abbreviation ,captain,city,jersey_color,website
+1,Arsenal,ARS,Pierre-Emerick Aubameyang,London,Red,https://www.arsenal.com
+2,Aston Villa,AVL,Jack Grealish,Birmingham,Brown,https://www.avfc.co.uk
+3,Brighton,BHA,Lewis Dunk,Falmer,Blue,https://www.brightonandhovealbion.com
+4,Burnley,BUR,Ben Mee,Burnley,Brown,http://www.burnleyfootballclub.com
+5,Chelsea,CHE,César Azpilicueta,London,Blue,https://www.chelseafc.com/en
+6,Crystal Palace,CRY,Luka Milivojević,London,Brown,https://www.cpfc.co.uk
+7,Everton,EVE,Séamus Coleman,Liverpool,Blue,https://www.evertonfc.com
+8,Fulham,FUL,Tom Cairney,London,White,https://www.fulhamfc.com
+9,Leeds,LEE,Liam Cooper,Leeds,Blue,https://www.lcfc.com
+10,Leicester,LEI,Wes Morgan,Leicester,White,https://www.leedsunited.com
+11,Liverpool,LIV,Jordan Henderson,Liverpool,Red,https://www.liverpoolfc.com
+12,Man City,MCI,Fernandinho,Manchester,Blue,https://www.mancity.com
+13,Man Utd,MUN,Harry Maguire,Manchester,Red,https://www.manutd.com
+14,Newcastle,NEW,Jamaal Lascelles,Newcastle,Black,https://www.nufc.co.uk
+15,Sheffield Utd,SHU,Billy Sharp,Sheffield,Red,https://www.sufc.co.uk
+16,Southampton,SOU,James Ward-Prowse,Southampton,Red,https://www.southamptonfc.com
+17,Spurs,TOT,Hugo Lloris,London,White,https://www.tottenhamhotspur.com
+18,West Brom,WBA,Jake Livermore,West Bromwich,Blue,https://www.wba.co.uk
+19,West Ham,WHU,Mark Noble,London,Brown,https://www.whufc.com
+20,Wolves,WOL,Conor Coady,Wolverhampton,Yellow,https://www.wolves.co.uk
